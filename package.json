@@ -2,7 +2,7 @@
   "name": "Proyecto-Gif-Jafet-Clase",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/JafetJimenez/Proyecto-Gif-Jafet-Main.git",
+  "homepage": "https://github.com/JafetJimenez/Proyecto-Gif-Jafet-Main-.git",
   "type": "module",
   "scripts": {
     "dev": "vite",
